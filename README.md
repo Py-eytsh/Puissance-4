@@ -1,2 +1,6 @@
-# Puissance-4
+# Puissance quatre
 Un puissance 4 avec minimax
+
+plop plop
+
+
